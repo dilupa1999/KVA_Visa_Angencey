@@ -1,0 +1,63 @@
+.home-map .map-outer .map-inner .map-mark img{
+    width: 45px;
+}
+.home-map .map-outer .map-inner .map-mark.italy {
+    left: 50%;
+    top: 41%;
+  }
+.home-map .map-outer .map-inner .map-mark.spain {
+    left: 45%;
+    top: 41%;
+}
+.home-map .map-outer .map-inner .map-mark.france {
+    left: 46%;
+    top: 36%;
+}
+.home-map .map-outer .map-inner .map-mark.malaysia {
+    left: 76%;
+    top: 62%;
+}
+.home-map .map-outer .map-inner .map-mark.new-zealand {
+    left: 95%;
+    top: 90%;
+}
+.home-map .map-outer .map-inner .map-mark.morocco {
+    left: 44%;
+    top: 46%;
+}
+.home-map .map-outer .map-inner .map-mark.turkey {
+    left: 55%;
+    top: 41%;
+}
+.home-map .map-outer .map-inner .map-mark.azerbaijan {
+    left: 59%;
+    top: 39%;
+}
+.home-map .map-outer .map-inner .map-mark.belgium {
+    left: 47%;
+    top: 32%;
+}
+.home-map .map-outer .map-inner .map-mark.finland {
+    left: 52%;
+    top: 25%;
+}
+.home-map .map-outer .map-inner .map-mark.uae {
+    left: 62%;
+    top: 50%;
+}
+.home-map .map-outer .map-inner .map-mark.qatar {
+    left: 59.5%;
+    top: 48.5%;
+}
+.home-map .map-outer .map-inner .map-mark.kuwait {
+    left: 57.5%;
+    top: 46%;
+}
+.home-map .map-outer .map-inner .map-mark.russia {
+    left: 71%;
+    top: 25%;
+}
+.home-map .map-outer .map-inner .map-mark.denmark {
+    left: 48.5%;
+    top: 28%;
+}
